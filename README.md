@@ -1,6 +1,6 @@
 ### Hi there 👋 <a href="https://github.com/zhong-my"><img src="https://github-readme-stats.vercel.app/api?username=zhong-my&count_private=true&include_all_commits=true&hide_rank=true&theme=graywhite&disable_animations=true&custom_title=Stats" align="right" width="320" alt="zhong-my's github stats" /></a>
 
-I'm a software developer from Shenzhen 🌴 
+I'm a software developer from Shenzhen,China 🌴 
 
 - contributor to open source :octocat:
 - creator of [``]()
