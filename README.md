@@ -16,7 +16,7 @@ This is my skills, learning by open source community:
 - BlockChain: [Ethereum](https://ethereum.org/en/), Smart Contract, [Solidity](https://github.com/ethereum/solidity)
 - Operation System: macOS, [Linux](https://github.com/torvalds/linux)
 
-if you have any questions or invite me to join your teams, please send me an Email(zhongmingyang2000@gmail.com).
+If you have any questions or invite me to join your teams, please send me an Email(zhongmingyang2000@gmail.com).
 
 Thanks.
 
