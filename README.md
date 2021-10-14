@@ -4,7 +4,7 @@ I'm a software developer from Shenzhen,China 🌴
 
 - contributor to open source :octocat:
 - creator of [`Young`](https://github.com/zhong-my/young)
-- working on #Golang、#CryptoCurrency、#Ethereum、#Smart Contract
+- working on #Golang、#CryptoCurrency、#Ethereum、#Devops
 
 <!--
 **zhong-my/zhong-my** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
