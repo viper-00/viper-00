@@ -12,7 +12,7 @@ This is my skills, learning by open source community:
 - Web Framework: [Vuejs](https://github.com/vuejs/vue)
 - Database: Mysql, [Redis](https://github.com/redis/redis), [PostgreSql](https://github.com/postgres/postgres)
 - Containers: [Docker](https://www.docker.com/)
-- Microservices: [k8s](https://github.com/kubernetes/kubernetes), [grpc](https://github.com/grpc/grpc-go)
+- Microservices: [k8s](https://github.com/kubernetes/kubernetes), [grpc](https://github.com/grpc/grpc-go), [go-kit](https://github.com/go-kit/kit)
 - BlockChain: [Ethereum](https://ethereum.org/en/), Smart Contract, [Solidity](https://github.com/ethereum/solidity)
 - Operation System: macOS, [Linux](https://github.com/torvalds/linux)
 
