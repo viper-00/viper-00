@@ -18,6 +18,8 @@ This is my skills, learning by open source community:
 
 If you have any questions or invite me to join your teams, please send me an Email(zhongmingyang2000@gmail.com).
 
+This is my [resume](https://zhong-my.github.io/)（中文简历）.
+
 Thanks.
 
 <!--
