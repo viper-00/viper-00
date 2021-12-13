@@ -17,11 +17,11 @@ This is my skills, learning by open source community:
 - Operation System: macOS, [Linux](https://github.com/torvalds/linux)
 - Command-line: [cobra](https://github.com/spf13/cobra)
 
-If you have any questions or invite me to join your teams, you can send me an Email(zhongmingyang2000@gmail.com), I'll response to you at rest time.
+If you have any questions or invite me to join your teams, and you can send me an Email(zhongmingyang2000@gmail.com). I'll response to you at the rest time.
 
 This is my [resume/zh-cn](https://zhong-my.github.io/)（中文简历）.
 
-Enjoy!
+Happy Coding!
 
 <!--
 **zhong-my/zhong-my** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
