@@ -2,7 +2,12 @@
 
 I'm a software developer from Shenzhen in China
 
-If you have any questions or invite me to join your teams, please send me an Email(zhongmingyang2000@gmail.com). I'll response to you at the rest time.
+If you have any questions and invite me to join your teams, please send me an email. I'll response to you at the rest time.
+
+Contact me:
+- Wechat: zhongmy2000
+- Telegram: zmy2000
+- Email: zhongmingyang2000#gmail.com(# -> @)
 
 Happy Coding!
 
