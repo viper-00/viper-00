@@ -4,8 +4,10 @@
 
 最近我在翻译一些英文开源项目的README，帮助开发者减轻英文阅读障碍。（如果项目对你有帮助，请给我一个Star。谢谢！😊）
 
-- [go](https://github.com/zhong-my/go)（Go 编程语言）
-- [etag](https://github.com/zhong-my/etag)（一个用于创建 HTTP ETags 的 Go 包，用于 HTTP 响应）
+- [Go](https://github.com/zhong-my/go)（Go 编程语言）
+- [Etag](https://github.com/zhong-my/etag)（一个用于创建 HTTP ETags 的 Go 包，用于 HTTP 响应）
+- [User-Agent](https://github.com/zhong-my/user_agent)(HTTP 用户代理解析器)
+- [Gopsutil](https://github.com/zhong-my/gopsutil)(Go 实现 psutil)
 
 同时，我也在学习开源项目以帮助开发者构建和搭建合适的企业级软件。如：
 
