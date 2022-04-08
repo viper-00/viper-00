@@ -10,6 +10,7 @@
 - [Gopsutil](https://github.com/zhong-my/gopsutil)（Go 实现 psutil）
 - [Tstorage](https://github.com/zhong-my/tstorage)（嵌入式时间序列数据库）
 - [Webpush-go](https://github.com/zhong-my/webpush-go)（网络推送 API 加密，支持 VAPID）
+- [Jwt](https://github.com/zhong-my/jwt)（JSON Web Tokens (JWT) 的 Go 实现）
 
 同时，我也在学习开源项目以帮助开发者构建和搭建合适的企业级软件。如：
 
