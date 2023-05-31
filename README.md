@@ -1,6 +1,6 @@
 ### 你好，开发者 👋
 
-我是 Viper，区块链开发工程师，从事过区块链、Web3、NFT、DeFi 以及钱包类项目，擅长使用 Golang、JS/TS、Python、Php、Shell 语言开发。
+我是 Viper，区块链开发工程师，从事过区块链、Web3、NFT、DeFi 以及钱包类项目，擅长使用 Golang、JS/TS、Solidity、Python、Php、Shell 语言开发。
 
 目前在职 Aurtech 开发团队，已经上线了两款产品，分别是 Aurpay 和 Aurbyt。
 
