@@ -4,7 +4,7 @@ I am Viper, a highly experienced developer with a background in blockchain, Web3
 
 ---
 
-I used to be a part of the Aurtech development team and working as a full-stack engineer. We have launched several products: Aurpay, Aurbyt, AurMask, AllInOne, and Aorbit.
+I used to be a part of the Aurtech development team and working as a full-stack engineer. We have launched several products: Aurpay, Aurbyt, AurMask, Aio, and Aorbit.
 
 - [Aurpay](https://aurpay.net): This product enables merchants to accept cryptocurrency payments. It supports multiple blockchains such as Bitcoin, Bitcoin Lightning Network, Ethereum, Tron, BSC, and various payment currencies like BTC, BTC_LN, ETH, TRX, USDT, USDC, DAI, and BNB. Our e-commerce plugins are compatible with platforms like Shopify, WooCommerce, Ecwid, BigCommerce, Easy Digital Downloads, and Paid Memberships Pro. We have over 4,000 registered merchants, with around 500 active.
 
@@ -12,7 +12,7 @@ I used to be a part of the Aurtech development team and working as a full-stack 
 
 - [AurMask](https://aurmask.net/): This wallet supports both same-chain and cross-chain transactions. It connects to Uniswap's exchange contract, leveraging its extensive market liquidity. Additionally, we have developed a set of cross-chain transaction methods, enabling currency exchanges both within the same blockchain and across different blockchains.
 
-- [AllInone](https://dash.allinone.cash/): This project helps merchants consolidate assets through smart contracts, saving on transaction gas fees. It currently supports most major blockchains.
+- [Aio](https://aio.cash): This project helps merchants consolidate assets through smart contracts, saving on transaction gas fees. It currently supports most major blockchains.
 
 - Aorbit: This is a decentralized trading platform based on the solana chain, which anyone can view and buy.
 
