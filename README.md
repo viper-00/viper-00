@@ -22,7 +22,7 @@ During my free time, I also work on personal projects, striving to improve mysel
 
 - [Cryptopayserver](https://github.com/cryptopayserver00/cryptopayserver): Accept Crypto payments. Free, open-source & self-hosted, Crypto payment processor. This project provides merchants with support for accepting cryptocurrencies, offering a free, open-source, and automated deployment solution. It currently supports multiple major blockchains and cryptocurrencies, including Bitcoin, Ethereum, Solana, Litecoin, and Binance Smart Chain.
 
-- [Deshop](https://github.com/deshopfun/deshop): Decentralized cryptocurrency exchange. The design logic of this project draws inspiration from the [Pumpfun](https://pump.fun) platform, enabling anyone to publish content and sell it in various ways. Deshop allows anyone to list their products and conduct online transactions using cryptocurrency.
+- [Deshop](https://github.com/deshopfun/deshop): Decentralized cryptocurrency trading platform. The design logic of this project draws inspiration from the [Pumpfun](https://pump.fun) platform, enabling anyone to publish content and sell it in various ways. Deshop allows anyone to list their products and conduct online transactions using cryptocurrency.
 
 - [Predictmarket](https://github.com/viper-00/predictmarket): This project is inspired by [Polymarket](https://polymarket.com) and aims to create a similar prediction market. It supports cross-chain operations for all major blockchains and assets, with the goal of becoming the largest prediction market in the world.
 
