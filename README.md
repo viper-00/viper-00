@@ -10,7 +10,7 @@ At my last company I made the following products.
 
 - AurMask: This wallet supports both same-chain and cross-chain transactions. It connects to Uniswap's exchange contract, leveraging its extensive market liquidity. Additionally, we have developed a set of cross-chain transaction methods, enabling currency exchanges both within the same blockchain and across different blockchains.
 
-- Aio: This project helps merchants consolidate assets through smart contracts, saving on transaction gas fees. It currently supports most major blockchains.
+- [Aio](https://aio.cash/): This project helps merchants consolidate assets through smart contracts, saving on transaction gas fees. It currently supports most major blockchains.
 
 ---
 
